@@ -1,0 +1,6 @@
+/Users/sunzheng/code/vs/ProducersAndConsumers/ProducersAndConsumers/bin/Debug/ProducersAndConsumers.exe
+/Users/sunzheng/code/vs/ProducersAndConsumers/ProducersAndConsumers/bin/Debug/ProducersAndConsumers.pdb
+/Users/sunzheng/code/vs/ProducersAndConsumers/ProducersAndConsumers/obj/Debug/ProducersAndConsumers.csproj.AssemblyReference.cache
+/Users/sunzheng/code/vs/ProducersAndConsumers/ProducersAndConsumers/obj/Debug/ProducersAndConsumers.csproj.CoreCompileInputs.cache
+/Users/sunzheng/code/vs/ProducersAndConsumers/ProducersAndConsumers/obj/Debug/ProducersAndConsumers.exe
+/Users/sunzheng/code/vs/ProducersAndConsumers/ProducersAndConsumers/obj/Debug/ProducersAndConsumers.pdb
